@@ -8,7 +8,7 @@ Technologies used- HTML,CSS,BOOTSTRAP,SEMANTIC UI,Nodejs,Express,Mongodb
 
 
 Working-
-1.Firstly made home page ,signup,login using html,css,bootstrap,Semantic UI
-2.link the signup and login page with home page using Nodejs and Express
-3.Save the password in Mongodb database using passport 
-4.User can login with details provided during SignUp.
+* Firstly made home page ,signup,login using html,css,bootstrap,Semantic UI
+* link the signup and login page with home page using Nodejs and Express
+* Save the password in Mongodb database using passport 
+* User can login with details provided during SignUp.
